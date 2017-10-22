@@ -1,0 +1,14 @@
+{
+    "name": "phxib/mydemo02",
+    "description": "a test of composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cjq",
+            "email": "localhost@localhost.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
